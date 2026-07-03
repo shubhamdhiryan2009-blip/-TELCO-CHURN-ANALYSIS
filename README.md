@@ -72,24 +72,4 @@ Provide free trial periods (1–3 months) for these services.
 Bundle these services at discounted rates with internet/phone plans.
 Customer Support Enhancements
 Train support teams to upsell retention-related services during at-risk customer interactions.
-7. Deliverables
-The project includes the following files:
-
-📑 Report: https://github.com/ANUPRIYAROYANU/TELCO-CHURN-ANALYSIS/blob/main/REPORT.docx – Formal written report.
-🗂 Raw Data: https://github.com/ANUPRIYAROYANU/TELCO-CHURN-ANALYSIS/blob/main/RAW%20DATA.xlsx
-📝 SQL Queries: Not all queries are uploaded.
-📊 Power BI Dashboard: https://github.com/ANUPRIYAROYANU/TELCO-CHURN-ANALYSIS/blob/main/DASHBOARDS.pbix
-🖼 Dashboard Previews
-1️⃣ Overall Customer Dashboard
-https://github.com/ANUPRIYAROYANU/TELCO-CHURN-ANALYSIS/blob/main/CUSTOMER%20DASHBOARD.png
-
-2️⃣ Churned Customers Dashboard
-https://github.com/ANUPRIYAROYANU/TELCO-CHURN-ANALYSIS/blob/main/CHURNED%20CUSTOMER.png
-
-8. Conclusion
-This project highlights that 26.5% of customers churn, with churn concentrated among Fiber Optic internet users and Electronic Check payers.
-
-Key strategies such as improving service quality, incentivizing auto-pay methods, promoting long-term contracts, and increasing adoption of support-related services can significantly reduce churn.
-
-Implementing these recommendations will not only improve customer retention but also positively impact revenue growth and long-term loyalty.
 
