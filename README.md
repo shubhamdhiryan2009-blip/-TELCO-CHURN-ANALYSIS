@@ -18,14 +18,18 @@ Services: Phone Service, Internet Service, Online Security, Backup, Device Prote
 Billing & Contracts: Monthly Charges, Total Charges, Payment Method, Contract Type, Paperless Billing.
 Support: Number of Administrative and Technical Tickets.
 Target Variable: Churn (Yes/No).
+
 3. Methodology
-🔹 SQL Server
+      🔹 SQL Server
 Imported raw dataset into SQL Server.
 Created staging and cleaned tables.
 Converted problematic data types (e.g., BIT → VARCHAR).
 Handled missing/null values.
 Performed exploratory queries (distribution checks, churn segmentation, revenue analysis).
-🔹 Power BI
+
+
+
+      🔹 Power BI
 Imported cleaned SQL data into Power BI.
 
 Performed data transformations (binary replacements, grouping ranges, unpivoting service columns).
@@ -36,7 +40,8 @@ Built two dashboards:
 
 Overall Customer Dashboard (entire customer base).
 Churned Customer Dashboard (focused on churned customers).
-🔹 Excel
+
+    🔹 Excel
 Used for preliminary checks and dataset validation.
 4. Key Calculations & KPIs
 Total Customers: 7,043
